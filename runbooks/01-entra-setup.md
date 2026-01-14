@@ -4,7 +4,7 @@
 Create a clean Entra ID lab tenant with test users and groups for IAM testing.
 
 ## Steps
-1. Create Entra tenant (free) and confirm admin access.
+1. Create tenant and confirm admin access.
 2. Create 4 test users:
    - hr.user
    - it.user
@@ -21,5 +21,5 @@ Create a clean Entra ID lab tenant with test users and groups for IAM testing.
    - Group membership
 
 ## Evidence
-Store screenshots in: /screenshots/entra-setup/
+Store screenshots in: /screenshots/
 
